@@ -1,0 +1,7 @@
+{
+  "name": "JCCApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
